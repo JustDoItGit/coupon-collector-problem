@@ -4,7 +4,7 @@
 
 安装依赖包：
 ```shell
-pip install pandas numpy sympy jupter xlrd openpyxl matplotlib
+pip install pandas numpy sympy jupyter xlrd openpyxl matplotlib
 ```
 
 ### 解决问题1：理论计算P(n, m)
